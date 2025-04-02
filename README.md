@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm a beginner web developer, full of enthusiasm and eager to learn new things. While my current experience includes developing and supporting a website on the Shopify platform, I am actively learning various web technologies to create high-quality and modern web solutions.
+I'm a junior web developer, full of enthusiasm and eager to learn new things. While my current experience includes developing and supporting a website on the Shopify platform, I am actively learning various web technologies to create high-quality and modern web solutions.
 
 ## Tech Skills 💻
 
@@ -20,12 +20,9 @@ Currently, my main experience is related to developing and maintaining a website
 
 Although this is my first major project, I am actively learning **JavaScript** and the **React** library to expand my skills and create more complex and interactive web applications.
 
-## What You Can Find Here 📂
-
-In this profile, you will be able to see my learning projects, experiments with new technologies, and possibly future extensions of my Shopify project (if publicly available).
 
 ## Social Links 🌐
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/livedder44?igsh=Z3JpeWx4YTcwajFw&utm_source=qr)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-kyrylenko-628763280/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-kyrylenko-628763280/)
 [![Telegram](https://img.shields.io/badge/-Telegram-%23229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/liveDdeR)
